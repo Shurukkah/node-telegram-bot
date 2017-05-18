@@ -1,0 +1,12 @@
+{
+  "botToken": "000:000000000",
+  "administrators": [
+    {
+      "id": "000000000",
+      "nickname": "Alexander_W"
+    }
+  ],
+  "git_group_id" : "-000000000",
+  "github_secret_key": "000000",
+  "post_query_secret": "00000000000000"
+}
